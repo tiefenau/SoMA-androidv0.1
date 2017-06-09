@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoMA</string>
+    <string name="start_gathering">Starte Erhebung</string>
+    <string name="upload_data">Upload Daten</string>
+    <string name="gatheredDataCount">Anzahl gesammelter Datensätze</string>
+    <string name="surveyButton">Zur Umfrage</string>
+</resources>
